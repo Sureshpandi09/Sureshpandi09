@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sureshpandi09
 - 👀 I’m interested in solving sudoku, playing with Rubik's cube, reading books(fictional) and working with data.
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: linkedin.com/in/sureshpandi-p
 
